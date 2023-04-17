@@ -1,0 +1,10 @@
+cd ~/Projects/func
+./func  > data1.txt
+sleep 3
+./func  > data2.txt
+sleep 3
+./func  > data3.txt
+sleep 3
+./func  > data4.txt
+sleep 3
+
